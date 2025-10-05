@@ -16,12 +16,6 @@
   <a href="https://discord.gg/p9GubC7ZMP"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat" alt="Discord"></a>
 </p>
 
-**`bkite`** is a CLI tool that instantly scaffolds a clean, production-ready **Express.js backend** — just like `npm create vite@latest` does for frontend projects.
-It removes boilerplate and setup hassles, so you can focus on actually building your app.
-
-It’s perfect for everyone, from beginners learning Express.js to professionals prototyping a new idea or teams in a hackathon who need to move fast.
-
-## ✨ Features
 
 * **🪁 Interactive CLI**: Beautiful prompts guide you through language, database, and ORM selection.
 * **🎯 Multiple Templates**: Choose from JavaScript/TypeScript with various database and ORM combinations.
